@@ -1,0 +1,2 @@
+mysql-connector-python    # Для підключення до бази даних MySQL
+tk                       # Tkinter (для GUI, встановлюється за замовчуванням у Python)
